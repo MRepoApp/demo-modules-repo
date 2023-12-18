@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo (demo)",
   "metadata": {
     "version": 1,
-    "timestamp": 1702329028.187251
+    "timestamp": 1702920997.899592
   },
   "modules": [
     {
@@ -279,8 +279,8 @@
     {
       "id": "zygisk_shamiko",
       "name": "Shamiko",
-      "version": "v0.7.4 (188)",
-      "versionCode": 188,
+      "version": "v0.7.5 (194)",
+      "versionCode": 194,
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "track": {
@@ -294,13 +294,6 @@
       },
       "versions": [
         {
-          "timestamp": 1680843186.0,
-          "version": "v0.7 (161)",
-          "versionCode": 161,
-          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7_(161)_161.zip",
-          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7_(161)_161.md"
-        },
-        {
           "timestamp": 1685850239.0,
           "version": "v0.7.3 (174)",
           "versionCode": 174,
@@ -313,6 +306,13 @@
           "versionCode": 188,
           "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.4_188.zip",
           "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.4_188.md"
+        },
+        {
+          "timestamp": 1702744549.0,
+          "version": "v0.7.5 (194)",
+          "versionCode": 194,
+          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.5_194.zip",
+          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.5_194.md"
         }
       ]
     },

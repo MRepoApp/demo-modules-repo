@@ -3,13 +3,6 @@
   "timestamp": 1685850239.0,
   "versions": [
     {
-      "timestamp": 1680843186.0,
-      "version": "v0.7 (161)",
-      "versionCode": 161,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7_(161)_161.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7_(161)_161.md"
-    },
-    {
       "timestamp": 1685850239.0,
       "version": "v0.7.3 (174)",
       "versionCode": 174,
@@ -22,6 +15,13 @@
       "versionCode": 188,
       "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.4_188.zip",
       "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.4_188.md"
+    },
+    {
+      "timestamp": 1702744549.0,
+      "version": "v0.7.5 (194)",
+      "versionCode": 194,
+      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.5_194.zip",
+      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.5_194.md"
     }
   ]
 }
