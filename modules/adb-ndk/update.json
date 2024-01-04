@@ -6,22 +6,22 @@
       "timestamp": 1693442224.0,
       "version": "1.0.41",
       "versionCode": 104112,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104112.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104112.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/adb-ndk/1.0.41_104112.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/adb-ndk/1.0.41_104112.md"
     },
     {
       "timestamp": 1693751147.0,
       "version": "1.0.41",
       "versionCode": 104113,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104113.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104113.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/adb-ndk/1.0.41_104113.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/adb-ndk/1.0.41_104113.md"
     },
     {
       "timestamp": 1698700191.0,
       "version": "1.0.41",
       "versionCode": 104114,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104114.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104114.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/adb-ndk/1.0.41_104114.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/adb-ndk/1.0.41_104114.md"
     }
   ]
 }

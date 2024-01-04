@@ -6,22 +6,22 @@
       "timestamp": 1673882223.0,
       "version": "v1.8.6 (6712)",
       "versionCode": 6712,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
     },
     {
       "timestamp": 1693379566.0,
       "version": "v1.9.1 (6990)",
       "versionCode": 6990,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/v1.9.1_6990.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/v1.9.1_6990.md"
     },
     {
       "timestamp": 1697034252.0,
       "version": "v1.9.2 (7024)",
       "versionCode": 7024,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_lsposed/v1.9.2_7024.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_lsposed/v1.9.2_7024.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/v1.9.2_7024.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/v1.9.2_7024.md"
     }
   ]
 }

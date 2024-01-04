@@ -6,22 +6,22 @@
       "timestamp": 1686557854.0,
       "version": "1.36.1",
       "versionCode": 13612,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/busybox-ndk/1.36.1_13612.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/busybox-ndk/1.36.1_13612.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/busybox-ndk/1.36.1_13612.md"
     },
     {
       "timestamp": 1693751259.0,
       "version": "1.36.1",
       "versionCode": 13613,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/busybox-ndk/1.36.1_13613.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/busybox-ndk/1.36.1_13613.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/busybox-ndk/1.36.1_13613.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/busybox-ndk/1.36.1_13613.md"
     },
     {
       "timestamp": 1694466217.0,
       "version": "1.36.1",
       "versionCode": 13614,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/busybox-ndk/1.36.1_13614.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/busybox-ndk/1.36.1_13614.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/busybox-ndk/1.36.1_13614.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/busybox-ndk/1.36.1_13614.md"
     }
   ]
 }

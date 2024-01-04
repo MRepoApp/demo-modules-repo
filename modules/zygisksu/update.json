@@ -6,22 +6,22 @@
       "timestamp": 1687179483.0,
       "version": "v4-0.7.1 (89-release)",
       "versionCode": 89,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.7.1_89-release.zip",
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.7.1_89-release.zip",
       "changelog": ""
     },
     {
       "timestamp": 1697909535.0,
       "version": "v4-0.8.0 (106-abbca19-release)",
       "versionCode": 106,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.8.0_106-abbca19-release.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.8.0_106-abbca19-release.md"
     },
     {
       "timestamp": 1704291273.0,
       "version": "v4-0.9.0 (178-32931cf-release)",
       "versionCode": 178,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.9.0_178-32931cf-release.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.9.0_178-32931cf-release.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.9.0_178-32931cf-release.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.9.0_178-32931cf-release.md"
     }
   ]
 }

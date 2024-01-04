@@ -6,15 +6,15 @@
       "timestamp": 1675570123.0,
       "version": "v24",
       "versionCode": 24,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisk_clipboard_whitelist/v24_24.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisk_clipboard_whitelist/v24_24.md"
     },
     {
       "timestamp": 1697947750.0,
       "version": "v26",
       "versionCode": 26,
-      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_clipboard_whitelist/v26_26.zip",
-      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_clipboard_whitelist/v26_26.md"
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisk_clipboard_whitelist/v26_26.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisk_clipboard_whitelist/v26_26.md"
     }
   ]
 }
