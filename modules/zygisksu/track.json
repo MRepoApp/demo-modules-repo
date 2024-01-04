@@ -1,11 +1,11 @@
 {
   "id": "zygisksu",
   "enable": true,
-  "update_to": "https://api.nullptr.icu/android/zygisk-on-kernelsu/static/update.json",
+  "update_to": "https://api.nullptr.icu/android/zygisk-next/static/update.json",
   "license": "GPL-3.0",
   "source": "https://github.com/Dr-TSNG/ZygiskOnKernelSU.git",
   "support": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/issues",
   "added": 1679025505.129431,
-  "last_update": 1697909535.0,
+  "last_update": 1704291273.0,
   "versions": 3
 }

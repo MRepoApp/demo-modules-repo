@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo (demo)",
   "metadata": {
     "version": 1,
-    "timestamp": 1704143377.236445
+    "timestamp": 1704352597.67836
   },
   "modules": [
     {
@@ -279,8 +279,8 @@
     {
       "id": "zygisk_shamiko",
       "name": "Shamiko",
-      "version": "v0.7.5 (194)",
-      "versionCode": 194,
+      "version": "v1.0 (290)",
+      "versionCode": 290,
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "track": {
@@ -294,13 +294,6 @@
       },
       "versions": [
         {
-          "timestamp": 1685850239.0,
-          "version": "v0.7.3 (174)",
-          "versionCode": 174,
-          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.3_174.zip",
-          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.3_174.md"
-        },
-        {
           "timestamp": 1697910921.0,
           "version": "v0.7.4 (188)",
           "versionCode": 188,
@@ -313,16 +306,23 @@
           "versionCode": 194,
           "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.5_194.zip",
           "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v0.7.5_194.md"
+        },
+        {
+          "timestamp": 1704343563.0,
+          "version": "v1.0 (290)",
+          "versionCode": 290,
+          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v1.0_290.zip",
+          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisk_shamiko/v1.0_290.md"
         }
       ]
     },
     {
       "id": "zygisksu",
-      "name": "Zygisk on KernelSU",
-      "version": "v4-0.8.0 (106-abbca19-release)",
-      "versionCode": 106,
+      "name": "Zygisk Next",
+      "version": "v4-0.9.0 (178-32931cf-release)",
+      "versionCode": 178,
       "author": "Nullptr, 5ec1cff",
-      "description": "Run Zygisk on KernelSU.",
+      "description": "Standalone implementation of Zygisk.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679025505.129431,
@@ -333,13 +333,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1679572814.0,
-          "version": "v4-0.6.4 (73)",
-          "versionCode": 73,
-          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.6.4_(73)_73.zip",
-          "changelog": ""
-        },
         {
           "timestamp": 1687179483.0,
           "version": "v4-0.7.1 (89-release)",
@@ -353,6 +346,13 @@
           "versionCode": 106,
           "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.zip",
           "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.md"
+        },
+        {
+          "timestamp": 1704291273.0,
+          "version": "v4-0.9.0 (178-32931cf-release)",
+          "versionCode": 178,
+          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.9.0_178-32931cf-release.zip",
+          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.9.0_178-32931cf-release.md"
         }
       ]
     }
