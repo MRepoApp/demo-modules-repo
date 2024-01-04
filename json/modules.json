@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo (demo)",
   "metadata": {
     "version": 1,
-    "timestamp": 1704356562.685612
+    "timestamp": 1704360568.787397
   },
   "modules": [
     {
@@ -328,8 +328,8 @@
         "added": 1679025505.129431,
         "license": "GPL-3.0",
         "homepage": "",
-        "source": "https://github.com/Dr-TSNG/ZygiskOnKernelSU.git",
-        "support": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/issues",
+        "source": "https://github.com/Dr-TSNG/ZygiskNext.git",
+        "support": "https://github.com/Dr-TSNG/ZygiskNext/issues",
         "donate": ""
       },
       "versions": [
