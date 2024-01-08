@@ -3,13 +3,6 @@
   "timestamp": 1679572814.0,
   "versions": [
     {
-      "timestamp": 1687179483.0,
-      "version": "v4-0.7.1 (89-release)",
-      "versionCode": 89,
-      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.7.1_89-release.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1697909535.0,
       "version": "v4-0.8.0 (106-abbca19-release)",
       "versionCode": 106,
@@ -22,6 +15,13 @@
       "versionCode": 178,
       "zipUrl": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.9.0_178-32931cf-release.zip",
       "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.9.0_178-32931cf-release.md"
+    },
+    {
+      "timestamp": 1704448749.0,
+      "version": "v4-0.9.1.1 (189-698e6e6-release)",
+      "versionCode": 189,
+      "zipUrl": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.9.1.1_189-698e6e6-release.zip",
+      "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/v4-0.9.1.1_189-698e6e6-release.md"
     }
   ]
 }
