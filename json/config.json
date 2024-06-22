@@ -1,0 +1,70 @@
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "repository": {
+    "name": "Sanmer Magisk Repo (demo)",
+    "metadata": {
+      "homepage": "https://demo-repo.sanmer.app"
+    },
+    "setting": {
+      "base_url": "https://demo-repo.sanmer.app",
+      "keep_size": 6
+    }
+  },
+  "modules": [
+    {
+      "id": "zygisk-sui",
+      "kind": "update-json",
+      "provider": "https://rikkaapps.github.io/release/sui_zygisk.json",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/RikkaApps/Sui.git",
+        "support": "https://github.com/RikkaApps/Sui/issues"
+      },
+      "setting": {
+        "disabled": false
+      }
+    },
+    {
+      "id": "zygisk_lsposed",
+      "kind": "update-json",
+      "provider": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://lsposed.org",
+        "source": "https://github.com/LSPosed/LSPosed.git",
+        "donate": "https://github.com/sponsors/LSPosed",
+        "support": "https://github.com/LSPosed/LSPosed/issues"
+      },
+      "setting": {
+        "disabled": false
+      }
+    },
+    {
+      "id": "zygisk_shamiko",
+      "kind": "update-json",
+      "provider": "https://lsposed.github.io/releases/shamiko.json",
+      "metadata": {
+        "homepage": "https://lsposed.org"
+      },
+      "setting": {
+        "disabled": false
+      }
+    },
+    {
+      "id": "zygisksu",
+      "kind": "update-json",
+      "provider": "https://api.nullptr.icu/android/zygisk-next/static/update.json",
+      "metadata": {
+        "source": "https://github.com/Dr-TSNG/ZygiskNext.git",
+        "support": "https://github.com/Dr-TSNG/ZygiskNext/issues"
+      },
+      "setting": {
+        "disabled": false
+      }
+    }
+  ]
+}
