@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "zygisk_lsposed",
+    "name": "Zygisk - LSPosed",
+    "version": "v1.9.2 (7024)",
+    "version_code": 7024,
+    "author": "LSPosed Developers",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled."
+  },
+  "versions": [
+    {
+      "timestamp": 1697034252000,
+      "version": "v1.9.2 (7024)",
+      "version_code": 7024,
+      "zip_file": "7024.zip",
+      "changelog": "7024.md"
+    }
+  ]
+}

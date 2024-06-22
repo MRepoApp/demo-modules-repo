@@ -1,0 +1,75 @@
+{
+  "name": "Sanmer Magisk Repo (demo)",
+  "timestamp": 1719042008374,
+  "metadata": {
+    "homepage": "https://demo-repo.sanmer.app"
+  },
+  "modules": [
+    {
+      "id": "zygisk-sui",
+      "name": "Zygisk - Sui",
+      "version": "v13.5.1",
+      "version_code": 319,
+      "author": "Rikka",
+      "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/RikkaApps/Sui.git",
+        "support": "https://github.com/RikkaApps/Sui/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1695131134000,
+          "version": "v13.5.1 (319)",
+          "version_code": 319,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisk-sui/319.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisk-sui/319.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_lsposed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.9.2 (7024)",
+      "version_code": 7024,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://lsposed.org",
+        "source": "https://github.com/LSPosed/LSPosed.git",
+        "donate": "https://github.com/sponsors/LSPosed",
+        "support": "https://github.com/LSPosed/LSPosed/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1697034252000,
+          "version": "v1.9.2 (7024)",
+          "version_code": 7024,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/7024.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/7024.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_shamiko",
+      "name": "Shamiko",
+      "version": "v1.0.1 (300)",
+      "version_code": 300,
+      "author": "LSPosed Developers",
+      "description": "これで勝ったと思うなよ―――!!",
+      "metadata": {
+        "homepage": "https://lsposed.org"
+      },
+      "versions": [
+        {
+          "timestamp": 1704526399000,
+          "version": "v1.0.1 (300)",
+          "version_code": 300,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisk_shamiko/300.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisk_shamiko/300.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "zygisk-sui",
+    "name": "Zygisk - Sui",
+    "version": "v13.5.1",
+    "version_code": 319,
+    "author": "Rikka",
+    "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList."
+  },
+  "versions": [
+    {
+      "timestamp": 1695131134000,
+      "version": "v13.5.1 (319)",
+      "version_code": 319,
+      "zip_file": "319.zip",
+      "changelog": "319.md"
+    }
+  ]
+}
