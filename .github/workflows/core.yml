@@ -57,7 +57,7 @@ jobs:
 
   build:
     name: Build Pages
-    if: always()
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     needs: sync
     steps:
@@ -80,7 +80,7 @@ jobs:
 
   deploy:
     name: Deploy Pages
-    if: success()
+    if: ${{ !cancelled() }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
