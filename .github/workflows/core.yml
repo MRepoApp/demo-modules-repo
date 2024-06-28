@@ -80,7 +80,7 @@ jobs:
 
   deploy:
     name: Deploy Pages
-    if: always()
+    if: success()
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
