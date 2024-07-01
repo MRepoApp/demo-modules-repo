@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo (demo)",
-  "timestamp": 1719263649316,
+  "timestamp": 1719868490316,
   "metadata": {
     "homepage": "https://demo-repo.sanmer.app"
   },
@@ -54,14 +54,21 @@
     {
       "id": "zygisk_shamiko",
       "name": "Shamiko",
-      "version": "v1.0.1 (300)",
-      "version_code": 300,
+      "version": "v1.1 (344)",
+      "version_code": 344,
       "author": "LSPosed Developers",
       "description": "これで勝ったと思うなよ―――!!",
       "metadata": {
         "homepage": "https://lsposed.org"
       },
       "versions": [
+        {
+          "timestamp": 1719665045000,
+          "version": "v1.1 (344)",
+          "version_code": 344,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisk_shamiko/344.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisk_shamiko/344.md"
+        },
         {
           "timestamp": 1704526399000,
           "version": "v1.0.1 (300)",

@@ -2,12 +2,19 @@
   "module": {
     "id": "zygisk_shamiko",
     "name": "Shamiko",
-    "version": "v1.0.1 (300)",
-    "version_code": 300,
+    "version": "v1.1 (344)",
+    "version_code": 344,
     "author": "LSPosed Developers",
     "description": "これで勝ったと思うなよ―――!!"
   },
   "versions": [
+    {
+      "timestamp": 1719665045000,
+      "version": "v1.1 (344)",
+      "version_code": 344,
+      "zip_file": "344.zip",
+      "changelog": "344.md"
+    },
     {
       "timestamp": 1704526399000,
       "version": "v1.0.1 (300)",
